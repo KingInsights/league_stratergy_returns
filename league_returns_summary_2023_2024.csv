@@ -1,0 +1,10 @@
+league_name,home_returns_total,draw_returns_total,away_returns_total,first_choice_returns_total,second_choice_returns_total,third_choice_returns_total,random_choice_1_total,best_return,worst_return,best_return_column,worst_return_column
+england_premier-league-2023-2024,-228.6,-441.4,-463.2,72.7,-506.8,-699.1,-444.4,72.7,-699.1,first_choice_returns_total,third_choice_returns_total
+england_championship-2023-2024,-55.1,-878.8,-143.0,-385.6,-377.0,-314.3,-596.9,-55.1,-878.8,home_returns_total,draw_returns_total
+england_league-two-2023-2024,22.4,-737.0,-166.3,-322.4,-5.7,-552.8,-593.4,22.4,-737.0,home_returns_total,draw_returns_total
+england_league-one-2023-2024,-433.3,-725.1,58.5,-118.9,-201.9,-779.1,-591.6,58.5,-779.1,away_returns_total,third_choice_returns_total
+italy_serie-a-2023-2024,-419.9,321.1,-841.7,114.3,21.3,-1076.1,-567.1,321.1,-1076.1,draw_returns_total,third_choice_returns_total
+spain_laliga-2023-2024,-567.9,77.9,-706.1,94.2,-130.5,-1159.8,-391.0,94.2,-1159.8,first_choice_returns_total,third_choice_returns_total
+portugal_liga-portugal-2023-2024,-301.1,-218.7,-494.2,-10.4,-822.8,-180.8,-286.1,-10.4,-822.8,first_choice_returns_total,second_choice_returns_total
+france_ligue-1-2023-2024,-519.0,31.0,-18.0,-106.1,55.2,-455.1,-771.2,55.2,-771.2,second_choice_returns_total,random_choice_1_total
+poland_ekstraklasa-2023-2024,-68.4,216.6,-387.9,-544.9,425.9,-120.7,-458.9,425.9,-544.9,second_choice_returns_total,first_choice_returns_total
