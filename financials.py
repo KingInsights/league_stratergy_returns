@@ -73,7 +73,7 @@ if st.button("Load Data"):
     if not selected_leagues:
         st.warning("Please select at least one league.")
     else:
-        st.info("✅ Scraped with intelligent imagination — fun, free, and powered by Selenium.")
+        st.info("✅ Scraped with imagination.")
         for league in selected_leagues:
             file_path = league_files[league]
             df = pd.read_csv(file_path)
